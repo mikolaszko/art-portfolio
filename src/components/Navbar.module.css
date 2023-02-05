@@ -1,0 +1,17 @@
+.navSection {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: 200px;
+}
+
+.page-title {
+    font-size: 2em;
+}
+
+nav {
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
